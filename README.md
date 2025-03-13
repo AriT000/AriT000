@@ -16,6 +16,9 @@ I'm still trying to find my niche in the tech field but for the time being, I am
 - Active Directory attacks/mitigation strategies (Windows Server 2022)
 - Reversing malware
 
+### Hobbies:
+Basketball, videogames (getting into modding), exploring places, looking for a job
+
 <!--
 **AriT000/AriT000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
