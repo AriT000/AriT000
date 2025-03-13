@@ -1,4 +1,20 @@
-## Hi there 👋
+## Ari Torczon
+
+Hi, I'm currently a student at Cal Poly Pomona who is learning software development and security applications.
+
+I'm still trying to find my niche in the tech field but for the time being, I am learning and practicing:
+- Computer Science
+- Software Development
+- Cybersecurity
+- Computer Networking
+
+I am currently researching:
+- Python development
+- Web development
+- Google Cloud Services
+- File metadata removal
+- Active Directory attacks/mitigation strategies (Windows Server 2022)
+- Reversing malware
 
 <!--
 **AriT000/AriT000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
