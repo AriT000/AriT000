@@ -1,4 +1,4 @@
-## Ari Torczon
+# Ari Torczon
 
 Hi, I'm currently a student at Cal Poly Pomona who is learning software development and security applications.
 
@@ -8,7 +8,7 @@ I'm still trying to find my niche in the tech field but for the time being, I am
 - Cybersecurity
 - Computer Networking
 
-I am currently researching:
+### I am currently researching:
 - Python development
 - Web development
 - Google Cloud Services
