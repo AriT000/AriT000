@@ -17,7 +17,7 @@ I'm still trying to find my niche in the tech field but for the time being, I am
 - Reversing malware
 
 ### Certifications:
-- GFACT (GIAC Foundational Cybersecurity Technologies)
+- GFACT (SANS GIAC Foundational Cybersecurity Technologies)
 
 ### Hobbies:
 Basketball, videogames (getting into modding), exploring places, looking for a job
