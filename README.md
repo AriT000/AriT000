@@ -2,11 +2,6 @@
 
 Hi, I'm currently a student at Cal Poly Pomona who is learning software development and security applications.
 
-I'm still trying to find my niche in the tech field but for the time being, I am learning and practicing:
-- Software Development
-- Cybersecurity
-- Computer Networking
-
 ### I am currently researching:
 - Python development
 - Web development
@@ -16,6 +11,13 @@ I'm still trying to find my niche in the tech field but for the time being, I am
 - Reversing malware
 
 [![My Skills](https://skillicons.dev/icons?i=git,react,docker,gcp,npm,firebase,postgres,windows&perline=9)](https://skillicons.dev)
+
+### Projects
+I'm still trying to find my niche in the tech field but for the time being, these are my projects:  
+- Software Development  
+  - hhkjahdsa
+- Cybersecurity  
+- Computer Networking  
 
 ### Certifications:
 - GFACT (SANS GIAC Foundational Cybersecurity Technologies)
