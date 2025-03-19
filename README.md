@@ -3,7 +3,6 @@
 Hi, I'm currently a student at Cal Poly Pomona who is learning software development and security applications.
 
 I'm still trying to find my niche in the tech field but for the time being, I am learning and practicing:
-- Computer Science
 - Software Development
 - Cybersecurity
 - Computer Networking
