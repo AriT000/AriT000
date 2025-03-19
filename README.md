@@ -19,8 +19,13 @@ I'm still trying to find my niche in the tech field but for the time being, I am
 ### Certifications:
 - GFACT (SANS GIAC Foundational Cybersecurity Technologies)
 
+[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,bash,git,react,docker,gcp,npm,firebase,mysql,postgres,windows,linux,kali,ubuntu,vscode&perline=9)](https://skillicons.dev)
+
 ### Hobbies:
 Basketball, videogames (getting into modding), exploring places, looking for a job
+
+### Socials:
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:thearitorczon@gmail.com) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/aritorczon/) [![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/191704607435653122)
 
 <!--
 **AriT000/AriT000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
