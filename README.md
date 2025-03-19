@@ -10,15 +10,17 @@ I'm still trying to find my niche in the tech field but for the time being, I am
 ### I am currently researching:
 - Python development
 - Web development
+- Active Directory attacks/mitigation strategies (Windows Server 2022)
 - Google Cloud Services
 - File metadata removal
-- Active Directory attacks/mitigation strategies (Windows Server 2022)
 - Reversing malware
+
+[![My Skills](https://skillicons.dev/icons?i=git,react,docker,gcp,npm,firebase,postgres,windows&perline=9)](https://skillicons.dev)
 
 ### Certifications:
 - GFACT (SANS GIAC Foundational Cybersecurity Technologies)
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,c,cpp,bash,git,react,docker,gcp,npm,firebase,mysql,postgres,windows,linux,kali,ubuntu,vscode&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,mysql,bash,linux,kali&per)](https://skillicons.dev)
 
 ### Hobbies:
 Basketball, videogames (getting into modding), exploring places, looking for a job
