@@ -27,6 +27,7 @@ I'm still trying to find my niche in the tech field but for the time being, thes
   - [Active Directory Attacks/Mitigation](https://github.com/AriT000/ActiveDirectoryHack)
   - [Event Viewer Log Parser](https://github.com/AriT000/EventViewerLogParser)
   - [Discord Bot Key Logger](https://github.com/AriT000/DiscordKeylogger)
+  - [Metadata Removal](https://github.com/AriT000/MetadataRemoval)
 - Computer Networking  
   - [TCP/IP Stack SYN Packet](https://github.com/AriT000/TCP-IP-Stack)
 
