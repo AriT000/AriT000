@@ -30,6 +30,7 @@ I'm still trying to find my niche in the tech field but for the time being, thes
   - [Discord Bot Key Logger](https://github.com/AriT000/DiscordKeylogger)
 - Computer Networking  
   - [TCP/IP Stack SYN Packet](https://github.com/AriT000/TCP-IP-Stack)
+  - [Useful Networking Tools](https://github.com/AriT000/NetworkTools)
 
 ---
 
