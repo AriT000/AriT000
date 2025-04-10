@@ -53,7 +53,7 @@ I try to learn as much of these technologies (albeit open source/community versi
 ### Hobbies:
 Basketball, videogames (getting into modding), hanging out with friends, exploring places, looking for a job
 <br />
-
+ 
 ---
 
 ### Socials:
