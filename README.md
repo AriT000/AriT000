@@ -23,7 +23,8 @@ Hi, I'm currently a student at Cal Poly Pomona who is learning software developm
 I'm still trying to find my niche in the tech field but for the time being, these are my recent projects:  
 - Software Development  
   - [File Metadata Removal Web App](https://github.com/AriT000/MetadataRemoval)
-  - [Minflix Movie Streaming Web App](https://github.com/Min-Systems)  
+  - [Minflix Movie Streaming Web App](https://github.com/Min-Systems)
+  - [Movie Recommender Web App](https://github.com/AriT000/MovieRecommender)
 - Cybersecurity
   - [Active Directory Attacks/Mitigation](https://github.com/AriT000/ActiveDirectoryHack)
   - [Event Viewer Log Parser](https://github.com/AriT000/EventViewerLogParser)
