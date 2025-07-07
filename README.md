@@ -7,6 +7,7 @@ Hi, I'm currently a student at Cal Poly Pomona who is learning software developm
 ---  
 
 ### I am currently researching:
+- Intel x86-64 Assembly, debugging
 - Python development
 - Web development
 - Active Directory attacks/mitigation strategies (Windows Server 2022)
