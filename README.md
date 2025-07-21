@@ -1,4 +1,4 @@
-# [Ari Torczon](ari404.com)
+# [Ari Torczon](https://ari404.com)
 
 *`torczon@root:/Pomona/CA $ echo "Hi..."`*
 
