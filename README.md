@@ -7,15 +7,15 @@ Hi, I'm currently a student at Cal Poly Pomona who is learning software developm
 ---  
 
 ### I am currently researching:
+- UAV/Ground Control System communication with ROS2
+- Python, C development
+- Exploit Prediction
 - Intel x86-64 Assembly, debugging
-- Python development
-- Web development
 - Active Directory attacks/mitigation strategies (Windows Server 2022)
-- Google Cloud Services
 - File metadata removal
 - Reversing malware
 
-[![My Skills](https://skillicons.dev/icons?i=git,react,docker,gcp,npm,firebase,postgres,windows&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,python,qt,bash,ros,windows,docker,postgres&perline=9)](https://skillicons.dev)
 <br />
 
 ---
