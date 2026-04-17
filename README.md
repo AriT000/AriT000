@@ -11,9 +11,9 @@ Hi, I'm currently a student at Cal Poly Pomona who is learning software developm
 - Python, C development
 - Exploit Prediction
 - Intel x86-64 Assembly, debugging
+- Game Modding
 - Active Directory attacks/mitigation strategies (Windows Server 2022)
 - File metadata removal
-- Reversing malware
 
 [![My Skills](https://skillicons.dev/icons?i=git,python,qt,bash,ros,windows,docker,postgres&perline=9)](https://skillicons.dev)
 <br />
@@ -53,7 +53,7 @@ I try to learn as much of these technologies (albeit open source/community versi
 ---
 
 ### Hobbies:
-Basketball, videogames (getting into modding), hanging out with friends, exploring places, looking for a job
+Basketball, video games/modding, hanging out with friends, exploring places, looking for a job
 <br />
  
 ---
