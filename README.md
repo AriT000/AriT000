@@ -2,18 +2,18 @@
 
 *`torczon@root:/Pomona/CA $ echo "Hi..."`*
 
-Hi, I'm currently a student at Cal Poly Pomona who is learning software development and security applications.
+Hi, I'm computer science grad from Cal Poly Pomona who is learning software development and Linux/Windows hacking.
 
 ---  
 
 ### I am currently researching:
-- UAV/Ground Control System communication with ROS2
-- Python, C development
+- HackTheBox CPTS Cert (Certified Penetration Testing Specialist)
 - Exploit Prediction
-- Intel x86-64 Assembly, debugging
+- Web scraping
+- Python, C development
 - Game Modding
+- Intel x86-64 Assembly, debugging
 - Active Directory attacks/mitigation strategies (Windows Server 2022)
-- File metadata removal
 
 [![My Skills](https://skillicons.dev/icons?i=git,python,qt,bash,ros,windows,docker,postgres&perline=9)](https://skillicons.dev)
 <br />
