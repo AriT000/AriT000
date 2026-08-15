@@ -15,7 +15,7 @@ Hi, I'm computer science grad from Cal Poly Pomona who is learning software deve
 - Intel x86-64 Assembly, debugging
 - Active Directory attacks/mitigation strategies (Windows Server 2022)
 
-[![My Skills](https://skillicons.dev/icons?i=git,python,qt,bash,ros,windows,docker,postgres&perline=9)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,python,bash,ros,windows,docker,postgres&perline=9)](https://skillicons.dev)
 <br />
 
 ---
@@ -42,20 +42,6 @@ I'm still trying to find my niche in the tech field but for the time being, thes
 [![My Skills](https://skillicons.dev/icons?i=py,c,mysql,bash,linux,kali&per)](https://skillicons.dev)
 <br />
 
----
-
-### Experience:
-I currently do not have any working experience; HOWEVER, I have made it my mission to speak with as many professionals as possible via conferences, school, talks, job fairs, online; anything to learn about industry tools, practices, skills, and habits necessary to perform in the real world.  
-<br />
-I try to learn as much of these technologies (albeit open source/community versions only), whether its in my own home lab or through external resources like TryHackMe. You can see some of my experience with these tools in my repositories like my active directory notes, windows event viewer log parser, metadata removal tool, and websites.
-<br />
-
----
-
-### Hobbies:
-Basketball, video games/modding, hanging out with friends, exploring places, looking for a job
-<br />
- 
 ---
 
 ### Socials:
