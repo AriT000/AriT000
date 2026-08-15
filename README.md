@@ -2,7 +2,7 @@
 
 *`torczon@root:/Pomona/CA $ echo "Hi..."`*
 
-Hi, I'm computer science grad from Cal Poly Pomona who is learning software development and Linux/Windows hacking.
+Hi, I'm a computer science grad from Cal Poly Pomona who is learning software development and Linux/Windows hacking.
 
 ---  
 
